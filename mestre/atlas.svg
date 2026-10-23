@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" fill="none">
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#739d9e" stroke-width=".6" opacity=".22"/></pattern><radialGradient id="sea"><stop stop-color="#376c72"/><stop offset="1" stop-color="#173f4b"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#06282e" flood-opacity=".35"/></filter></defs>
+<rect width="900" height="520" fill="url(#sea)"/><rect width="900" height="520" fill="url(#grid)"/>
+<g stroke="#7aaca9" opacity=".2"><circle cx="619" cy="239" r="139"/><circle cx="619" cy="239" r="181"/><circle cx="619" cy="239" r="222"/><path d="M619 0V520M358 239H900" stroke-dasharray="3 9"/></g>
+<g fill="#bdc9ad" stroke="#e2d9b8" stroke-width="2" filter="url(#shadow)">
+<path d="M600 101 625 80 653 87 666 113 695 123 700 149 731 171 722 200 735 226 711 254 715 276 681 294 660 283 639 295 616 276 580 264 569 234 546 217 550 187 570 173 566 143 590 129Z"/>
+<path d="M313 292 334 280 361 288 375 310 407 322 399 344 378 357 358 351 339 371 314 357 294 328Z"/>
+<path d="M748 366 767 349 792 360 810 383 795 403 769 405 750 389Z"/>
+<path d="M483 80 496 68 513 78 509 94 490 99Z"/>
+</g>
+<g stroke="#597d6d" stroke-width="1.2" opacity=".65"><path d="M609 119 631 105 648 119 645 141 670 151 668 184 695 207 680 235 681 259 649 267 624 248 602 244 591 218 574 208 591 184 585 164 608 151Z"/><path d="M617 145 630 131 642 154 649 179 671 207 651 229 629 236 612 215 601 192Z"/><path d="m625 164 12 22 10 20-14 14-16-15Z"/><path d="m327 308 23-9 28 22-10 15-24 13-31-25Z"/></g>
+<g fill="#527364"><path d="m607 172 8-17 9 17Zm14 14 9-21 10 21Zm30 43 7-17 8 17Zm-38-7 6-15 7 15Zm-292 99 8-17 9 17Zm37 13 7-16 8 16Z"/></g>
+<path d="M277 418C270 354 455 431 469 333S512 305 526 278 540 232 568 241" stroke="#e6b57c" stroke-width="2" stroke-dasharray="6 8"/>
+<circle cx="568" cy="241" r="12" stroke="#f6c18f"/><circle cx="568" cy="241" r="4" fill="#f6c18f"/>
+<g transform="translate(462 349) rotate(15)"><path d="m-23 8 9 15h34l14-15Z" fill="#e3c29b"/><path d="M1-38V7H-24Z" fill="#f5ecdb"/><path d="M6-31V6H28Z" fill="#d9dbcd"/><path d="M2-43V26" stroke="#dab68a" stroke-width="2"/></g>
+<g transform="translate(710 94)"><circle r="33" stroke="#c4cbb2" opacity=".7"/><path d="M0-27 6-6 27 0 6 6 0 27-6 6-27 0-6-6Z" fill="#bf9b6c"/><path d="M0-27 6-6 0 0Z" fill="#f0d0a1"/><circle r="3" fill="#234c52"/><text y="-42" font-family="Georgia,serif" font-size="13" text-anchor="middle" fill="#c5cbb5">N</text></g>
+<g font-family="Georgia,serif" fill="#d9dec7"><text x="618" y="331" font-size="23" letter-spacing="5">EAST BLUE</text><text x="314" y="401" font-size="12" letter-spacing="2" opacity=".75">UM MAR DE POSSIBILIDADES</text><text x="762" y="435" font-size="10" opacity=".6">ILHAS POR DESCOBRIR</text></g>
+<g stroke="#cad2bd" opacity=".65" stroke-width="1.2"><path d="m445 129 9-4 9 4m-4-19 7-4 7 4m-70 97 9-4 9 4"/><path d="M779 201h24m-20 6h34M413 462h33m-27 6h53M538 392h21m-16 6h35"/></g>
+<text x="875" y="498" text-anchor="end" font-family="sans-serif" font-size="9" letter-spacing="1.2" fill="#b1c6bd" opacity=".65">ATLAS ILUSTRATIVO · SEM CÂNONE GEOGRÁFICO</text>
+</svg>
